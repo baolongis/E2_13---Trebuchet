@@ -1,0 +1,27 @@
+https://virtualtrebuchet.com/?lengthArmShort=0.24&lengthArmLong=0.48&lengthSling=0.1&lengthWeight=0.1&heightOfPivot=0.48&massArm=0.05&inertiaArm=0&pivotToArmCG=0.12&massWeight=0.5&inertiaWeight=1&massProjectile=0.01&projectileDiameter=0.035&windSpeed=0&releaseAngle=45&units=metric&projectile=custom&uniformArm=true&distance=4.704372949035455
+
+rev 1:
+https://virtualtrebuchet.com/?lengthArmShort=0.24&lengthArmLong=0.48&lengthSling=0.1&lengthWeight=0.1&heightOfPivot=0.48&massArm=0.05&inertiaArm=0&pivotToArmCG=0.12&massWeight=0.5&inertiaWeight=1&massProjectile=0.01&projectileDiameter=0.035&windSpeed=0&releaseAngle=45&units=metric&projectile=custom&uniformArm=true&distance=4.704372949035455
+-changed arm lengths to match inventor model
+
+
+rev 2:
+https://virtualtrebuchet.com/?lengthArmShort=0.24&lengthArmLong=0.43&lengthSling=0.2&lengthWeight=0.1&heightOfPivot=0.43&massArm=0.05&inertiaArm=0&pivotToArmCG=0.09&massWeight=0.5&inertiaWeight=0.0024&massProjectile=0.01&projectileDiameter=0.035&windSpeed=0&releaseAngle=45&units=metric&projectile=custom&uniformArm=true&distance=3.3365894411572747
+made sling more realistic
+
+expected release angles:
+1m - 75 degrees
+2m - 65 degrees
+3m - 50 degrees
+
+rev 3:
+https://virtualtrebuchet.com/?lengthArmShort=0.12&lengthArmLong=0.3&lengthSling=0.14&lengthWeight=0.1&heightOfPivot=0.3&massArm=0.05&inertiaArm=0&pivotToArmCG=0.09&massWeight=0.5&inertiaWeight=0.0024&massProjectile=0.01&projectileDiameter=0.035&windSpeed=0&releaseAngle=45&units=metric&projectile=custom&uniformArm=true&distance=2.9683332617138496
+-shrunk trebuchet a bit
+-made arm 42 cm long
+-sling is now 14cm
+-pivot is now 30cm high
+-release angles changed:
+
+1m - 75 degrees
+2m - 65 degrees
+3m - 45 degrees
